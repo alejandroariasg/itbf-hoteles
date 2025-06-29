@@ -1,0 +1,22 @@
+body{
+  background-color: #edeaea;
+  font-family: system-ui;
+}
+
+h1{
+  text-align: center;
+  color: #7f8189e6 !important;
+}
+
+form{
+  border-color: #cdc3c31a;
+  border-width: 3px;
+  border-style: solid;
+  padding: 30px;
+  border-radius: 40px;
+  margin-top: 30px;
+}
+
+table{
+  margin-top: 30px;
+}
